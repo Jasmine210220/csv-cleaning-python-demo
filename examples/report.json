@@ -1,0 +1,9 @@
+{
+  "input_files": 2,
+  "input_rows": 12,
+  "output_rows": 10,
+  "duplicates_removed": 2,
+  "dates_normalized": 6,
+  "date_issues": 2,
+  "data_origin": "Synthetic demonstration data; no client records."
+}

@@ -1,0 +1,11 @@
+﻿order_id,order_date,product,quantity,date_status
+ORD-1001,2026-10-01,Notebook,2,OK
+ORD-1002,2026-10-02,Desk lamp,1,OK
+ORD-1003,2026-10-03,USB cable,3,OK
+ORD-1004,2026-10-04,Mouse pad,2,OK
+ORD-1005,31/02/2026,Pen set,1,INVALID_DATE
+ORD-1006,2026-10-06,Folder,4,OK
+ORD-1007,2026-10-07,Notebook,1,OK
+ORD-1008,,Desk lamp,2,MISSING_DATE
+ORD-1009,2026-10-09,USB cable,1,OK
+ORD-1010,2026-10-10,Folder,3,OK

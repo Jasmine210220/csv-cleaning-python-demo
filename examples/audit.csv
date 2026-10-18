@@ -1,0 +1,5 @@
+﻿source_file,source_row,order_id,issue,original_date
+orders_a.csv,6,ORD-1005,INVALID_DATE,31/02/2026
+orders_b.csv,2,ORD-1003,DUPLICATE_REMOVED,03/10/2026
+orders_b.csv,3,ORD-1006,DUPLICATE_REMOVED,06/10/2026
+orders_b.csv,5,ORD-1008,MISSING_DATE,
